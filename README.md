@@ -1,4 +1,9 @@
-<h1 align="center">Salve!</h1>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+
+<h1 align="center">Salve! Me chamo Ítalo</h1>
 
 ###
 
@@ -25,9 +30,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Italossz-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Italossz-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Italossz-dev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=Italossz-dev&layout=compact&theme=dracula&langs_count=8" />
+  
+  <img height="150" src="https://streak-stats.demolab.com?user=Italossz-dev&theme=dracula&mode=daily" />
+  
+  <img height="150" src="https://github-profile-trophy.vercel.app/?username=Italossz-dev&theme=dracula&no-frame=true&no-bg=true" />
 </div>
 
 ###
