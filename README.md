@@ -1,4 +1,4 @@
-<h2 align="center">Olá! Eu sou o Ítalo 👋</h2>
+<h1 align="center">Olá! Eu sou o Ítalo 👋</h2>
 
 ###
 
@@ -18,7 +18,7 @@
   </p>
   
 
-  <a href="mailto:italoossz557@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=italoossz557@gmail.com" target="_blank" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/italo-souza-8a2ba02a7/" target="_blank">
