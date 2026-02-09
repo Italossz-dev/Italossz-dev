@@ -34,6 +34,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/Italossz-dev/Italossz-dev/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Italossz-dev/Italossz-dev/output/github-contribution-grid-snake.svg)
 
 ###
