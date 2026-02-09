@@ -45,9 +45,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
   <img width="12" />
