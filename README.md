@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="170" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZ0c2s5bDUyazlncWZhb2Ywc2xwNnJoMXZpeGY1bXl0Z280ZmlhNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XkyMkahnH96CicHKqK/giphy.gif"  />
+<img align="right" height="170" src="https://media.giphy.com/media/XkyMkahnH96CicHKqK/giphy.gif" alt="Cristiano Ronaldo GIF" />
 
 ###
 
@@ -47,9 +47,9 @@
 
 <!-- Pacman -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Italossz-dev/Italossz-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Italossz-dev/Italossz-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Italossz-dev/Italossz-dev/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
