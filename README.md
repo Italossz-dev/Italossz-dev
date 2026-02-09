@@ -10,7 +10,6 @@
 <div align="left">
   <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
   
-  <h3>Sobre mim</h3>
   <p>
     🎓 Estudante de Ciência e Tecnologia - UFBA<br>
     💻 Desenvolvedor Full Stack em formação <br>
