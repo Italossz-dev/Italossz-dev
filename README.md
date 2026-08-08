@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Ítalo 👋</h2>
+<h1 align="center">Ítalo Silva 👋</h2>
 
 ###
 
