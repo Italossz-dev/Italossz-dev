@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman&logoColor=white" height="30" alt="insomnia logo"  />
   <img src="https://img.shields.io/badge/insomnia-000000?logo=insomnia&logoColor=white&style=for-the-badge" height="30" alt="insomnia logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
 </div>
 
 ###
